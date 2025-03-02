@@ -3,7 +3,7 @@ title: Ihsan
 subtitle: Annafi Azhar
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: beranda # the subpath of your site, e.g. /blog
+baseurl: /beranda # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Ihsan Annafi Azhar
 street_address: Jalan Kaliurang
